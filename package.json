@@ -1,0 +1,19 @@
+{
+  "name": "final-e-voting-app",
+  "version": "1.0.0",
+  "description": "This is an e-voting application based on node.js and express js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aakashmaroju/final-e-voting-app.git"
+  },
+  "author": "aakash <marojuaakash2003@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aakashmaroju/final-e-voting-app/issues"
+  },
+  "homepage": "https://github.com/aakashmaroju/final-e-voting-app#readme"
+}
